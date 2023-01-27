@@ -2,20 +2,20 @@
 
 ## How to create a project using Preact CLI
 
-```sh
+```bash
 npx preact-cli create typescript <my-project-name>
 ```
 
 ## How to run for Dev mode
 
-```sh
+```bash
 cd <my-project-name>
 npm run dev
 ```
 
 ## How to build
 
-```sh
+```bash
 npm run build
 ```
 
